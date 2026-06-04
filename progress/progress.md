@@ -4,4 +4,4 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
-[solutions/Day02.java](./solutions/Day01.java)
+[solutions/Day01.java]
