@@ -79,8 +79,9 @@ The journey is divided into structured phases covering all important DSA topics:
 * Segment Trees
 * Advanced interview problems
 ----------------------------------------------------------------
-Complete DSA plan:
-👉plan/plan.md
+##Complete DSA plan:
+
+👉(https://github.com/deepaklal009/Daily-DSA/blob/main/plan/plan.md)
 ---
 
 # Repository Structure
