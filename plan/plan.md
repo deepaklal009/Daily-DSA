@@ -1,4 +1,4 @@
-# 📅 365-Day DSA Problem Plan
+# 📅 Daily-Day DSA Problem Plan
 
 This document outlines the **complete 365-day Data Structures & Algorithms roadmap**, organized into **8 progressive phases**.
 Each day focuses on **one LeetCode problem**, ensuring structured learning and long-term consistency.
