@@ -33,6 +33,7 @@
 
 ### 🔗 Solution
 [solutions/Day04.java]
+
 ---
 
 ## ✅ Day 05
