@@ -66,7 +66,7 @@
 
 ---
 
-## ✅ Day 203
+## ✅ Day 08
 
 📌 **Problem:** LC 203 –   Remove Linked List Elements
 🧠 **Topic:** Linked List  
